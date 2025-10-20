@@ -1,8 +1,4 @@
 
-"""
-Simple Streamlit app to run building footprint segmentation using the trained Keras model.
-Save this string to app.py (the notebook also writes app.py to disk).
-"""
 
 import streamlit as st
 import numpy as np

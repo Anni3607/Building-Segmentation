@@ -1,0 +1,11 @@
+
+tensorflow>=2.11
+tensorflow-addons
+albumentations
+opencv-python-headless
+numpy
+matplotlib
+streamlit
+pillow
+tqdm
+scikit-learn

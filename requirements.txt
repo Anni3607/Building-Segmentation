@@ -1,7 +1,11 @@
-
 tensorflow>=2.11
 numpy
 opencv-python
-tqdm
 albumentations
 matplotlib
+tqdm
+pillow
+scipy
+pyyaml
+requests
+streamlit

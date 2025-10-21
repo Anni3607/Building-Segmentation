@@ -1,4 +1,4 @@
-tensorflow>=2.11
+tensorflow==2.18.0
 numpy
 opencv-python
 albumentations
@@ -8,5 +8,5 @@ pillow
 scipy
 pyyaml
 requests
-streamlit
-protobuf==3.20.*
+streamlit>=1.38.0
+protobuf>=4.25.3,<5.0.0
